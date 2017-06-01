@@ -65,7 +65,7 @@ module.exports = {
     }),
 
     new webpack.LoaderOptionsPlugin({
-      minimize: inProduction
+      minimize: true
     })
   ],
 

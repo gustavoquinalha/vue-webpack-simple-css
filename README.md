@@ -1,6 +1,6 @@
-# webpack-top
+# Vue Webpack-simple thinking in CSS
 
-> A Vue.js project
+> [Original repo](https://github.com/vuejs-templates/webpack-simple)
 
 ## Build Setup
 
