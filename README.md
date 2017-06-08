@@ -1,5 +1,7 @@
 # Vue Webpack-simple thinking in CSS
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/gustavoquinalha/vue-webpack-simple-css.svg)](https://greenkeeper.io/)
+
 > [Original repo](https://github.com/vuejs-templates/webpack-simple)
 
 ## Build Setup
