@@ -10,7 +10,7 @@ module.exports = {
   entry: {
       app: [
         './src/main.js',
-        './src/css/main.scss'
+        './src/assets/css/main.scss'
       ]
     },
 
